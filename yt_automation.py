@@ -6,7 +6,7 @@ from os import startfile
 
 engine = pyttsx3.init()
 
-openai.api_key = "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"
+openai.api_key = "OPEN AI API KEY"
 question_to_be_asked_to_ai = input("Video Title: ")
 
 
